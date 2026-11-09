@@ -38,3 +38,12 @@
 <!-- 如果有檔案不需要被追蹤，在檔案裡建立 .gitignore 的檔案，
 在裡面輸入不需要被記錄的檔名，這樣就不會影響到要記錄的檔案 -->
 
+<!-- github有給程式碼可以從地端傳到雲端，
+git remote add origin https://github.com/jannie1224/part-time.git  連接遠端和地端的儲存庫
+    遠端  新增  遠端儲存庫名字 遠端儲存庫網址
+git branch -M main  把主線分支改成比較中性的main
+    分支管理 重新命名 新的分支名
+git push -u origin main 把本地位於main分支的資料送到雲端
+    推送  建立關聯 遠端名稱 本地名稱
+    重新整理，資料就會上傳啦! -->
+    
